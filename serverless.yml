@@ -1,4 +1,4 @@
-service: phapi-core-idp
+service: sample-routering-controllers
 
 frameworkVersion: "2"
 
