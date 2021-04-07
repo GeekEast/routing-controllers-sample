@@ -1,0 +1,30 @@
+# deps
+node_modules/
+
+# docker volumes
+data/
+
+# test
+coverage/
+
+# Package Manager
+.npm/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# build
+dist/
+.build
+*.tgz
+*.zip
+
+# IDE
+.idea/
+
+# temp
+# TODO: remove this in future
+*.temp.sh   
+
+# Mac
+.DS_Store
